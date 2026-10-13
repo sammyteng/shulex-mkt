@@ -2,9 +2,27 @@
 
 [![Shulex](https://img.shields.io/badge/Brand-Shulex%20%7C%20Solvea-0284c7?style=flat-square)](https://www.shulex.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Skill: Atomic KB](https://img.shields.io/badge/Agent_Skill-shulex--atomic--kb-10b981?style=flat-square)](skills/shulex-atomic-kb/SKILL.md)
+[![Excel Edition](https://img.shields.io/badge/Edition-Excel%20%E5%AE%9E%E6%93%8D%E7%89%88-16a34a?style=flat-square)](excel-edition/)
+[![AI Skill Edition](https://img.shields.io/badge/Edition-AI%20Agent%20Skill%20%E7%89%88-6366f1?style=flat-square)](ai-skill-edition/)
 
-> **让 AI 客服告别“胡说八道”的终极解决方案** —— 电商与企业客服知识库「四层原子化拆解方法论」实操模板与 AI Agent Skill。
+> **让 AI 客服彻底告别“胡说八道”的终极解决方案** —— 电商与企业客服知识库「四层原子化拆解方法论」官方开源仓库。
+
+---
+
+## 🌟 本项目提供两个版本（根据你的角色二选一）：
+
+```
+shulex-mkt/
+├── 📁 excel-edition/    👉 【版本 A：人工实操 Excel 版】适合运营、客服主管、店长，下载即填
+└── 📁 ai-skill-edition/ 👉 【版本 B：AI 智能体 Skill 版】适合开发者与 AI 助手，一键导入使用
+```
+
+| 版本对比 | 👨‍💼 [人工实操 Excel 版](excel-edition/) | 🤖 [AI 智能体 Skill 版](ai-skill-edition/) |
+| :--- | :--- | :--- |
+| **适合对象** | 店长、客服主管、传统运营、培训师 | AI 工程师、大模型开发者、Claude/Cursor 用户 |
+| **使用方式** | 下载现成的 `.xlsx` 表格，直接在电脑里填 | 将 `SKILL.md` 或 Prompt 导入 AI 智能体 |
+| **核心交付** | 包含 5 个 Sheet、带真实示范的工业级 Excel | 包含工作流规范、Python 转换脚本与 System Prompt |
+| **直达链接** | 👉 [进入 Excel 版目录](excel-edition/) | 👉 [进入 AI Skill 版目录](ai-skill-edition/) |
 
 ---
 
@@ -33,32 +51,16 @@
 
 ---
 
-## 📥 获取与使用现成模板
+## 🚀 极速获取与使用
 
-### 1. 完整 Excel 标准模板（拿走直接填）
-* 📂 **下载地址**：[`templates/客服知识库原子化拆解标准模板_Shulex出品.xlsx`](templates/客服知识库原子化拆解标准模板_Shulex出品.xlsx)
-* 内含完整的使用说明、维护飞轮机制、以及 4 张已填入标准实操范例的 Sheet，直接复制或覆盖即可使用。
+### 1. 获取 Excel 模板
+* 直接下载：[`excel-edition/客服知识库原子化拆解标准模板_Shulex出品.xlsx`](https://github.com/sammyteng/shulex-mkt/raw/main/excel-edition/%E5%AE%A2%E6%9C%8D%E7%9F%A5%E8%AF%86%E5%BA%93%E5%8E%9F%E5%AD%90%E5%8C%96%E6%8B%86%E8%A7%A3%E6%A0%87%E5%87%86%E6%A8%A1%E6%9D%BF_Shulex%E5%87%BA%E5%93%81.xlsx)
+* 在线预览：[网页端 Markdown 预览](templates/markdown/01_basic_policies.md)
 
-### 2. 在线 Markdown 预览
-无需下载 Excel，在 GitHub 即可直接查看 4 张标准表的排版范例：
-1. [表 1：全店基础政策与红线规矩表](templates/markdown/01_basic_policies.md)
-2. [表 2：产品与参数原子结构表](templates/markdown/02_product_specs.md)
-3. [表 3：买家大白话与口语同义句扩展表](templates/markdown/03_colloquial_synonyms.md)
-4. [表 4：决策与行动指令表](templates/markdown/04_action_triggers.md)
-
----
-
-## 🤖 使用 Agent Skill（给你的 AI 助手安装本能力）
-
-如果你在使用 **Claude Code**、**Google Antigravity**、**Cursor** 或其他支持 Agent Skills 的 AI 编码助手，可以直接将本 Skill 引入你的环境：
-
-* 🔗 **Skill 规范文件**：[`skills/shulex-atomic-kb/SKILL.md`](skills/shulex-atomic-kb/SKILL.md)
-
-### 使用场景：
-只需将未整理的乱七八糟的 Word、FAQ 或产品说明书发给 AI，并提示：
-> *“参考 `skills/shulex-atomic-kb/SKILL.md`，帮我把这份产品手册清洗并重构为四层原子化知识库表格。”*
-
-AI 将自动完成**冲突消除 ➔ 参数结构化 ➔ 买家大白话扩充 ➔ 动作闭环绑定**的全流程。
+### 2. 获取 AI Agent Skill
+* Skill 规范文件：[`ai-skill-edition/SKILL.md`](ai-skill-edition/SKILL.md)
+* 大模型 Prompt 模板：[`ai-skill-edition/prompt-templates/system_prompt_for_llm.md`](ai-skill-edition/prompt-templates/system_prompt_for_llm.md)
+* 转换脚本：[`ai-skill-edition/scripts/atomize_kb.py`](ai-skill-edition/scripts/atomize_kb.py)
 
 ---
 
