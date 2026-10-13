@@ -42,11 +42,11 @@ projects/
 
 ## 💬 官方交流与专属顾问支持
 
-如需深入交流智能客服落地、定制复杂业务的知识库清洗流水线、或申请 **Shulex AI 客服数字员工** 免费试用，欢迎微信扫码添加官方专属顾问：
+如需深入交流智能客服落地、定制复杂业务的知识库清洗流水线、或申请 **Shulex AI 客服数字员工** 免费试用，欢迎添加官方企业微信：
 
 <div align="center">
-  <img src="assets/shulex-contact-qr.png" width="220" alt="Shulex 官方客服二维码" />
-  <p><b>▲ 微信扫码添加 Shulex 官方专属顾问（备注：GitHub 知识库）</b></p>
+  <img src="assets/shulex-contact-qr.png" width="220" alt="Shulex 官方企业微信二维码" />
+  <p><b>▲ 微信扫码添加 Shulex 官方企业微信顾问（备注：GitHub 知识库）</b></p>
 </div>
 
 ---

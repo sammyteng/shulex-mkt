@@ -42,11 +42,11 @@
 
 ---
 
-## 💬 官方专属顾问微信
+## 💬 官方企业微信顾问
 
 搭建知识库过程中遇到任何疑难、或希望接入能直接跑通此模板的 **Shulex AI 客服数字员工**：
 
 <div align="center">
-  <img src="assets/shulex-contact-qr.png" width="200" alt="Shulex 客服二维码" />
-  <p><b>▲ 微信扫码添加专属顾问（备注：知识库模板）</b></p>
+  <img src="assets/shulex-contact-qr.png" width="200" alt="Shulex 官方企业微信二维码" />
+  <p><b>▲ 微信扫码添加企业微信顾问（备注：知识库模板）</b></p>
 </div>
