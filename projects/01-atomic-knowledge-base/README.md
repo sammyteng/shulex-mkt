@@ -39,3 +39,14 @@
 * 📥 **[一键直接下载 Excel 模板 (`.xlsx`)](https://github.com/sammyteng/shulex-mkt/raw/main/projects/01-atomic-knowledge-base/excel/%E5%AE%A2%E6%9C%8D%E7%9F%A5%E8%AF%86%E5%BA%93%E5%8E%9F%E5%AD%90%E5%8C%96%E6%8B%86%E8%A7%A3%E6%A0%87%E5%87%86%E6%A8%A1%E6%9D%BF_Shulex%E5%87%BA%E5%93%81.xlsx)**
 * 🔗 **[直接调用 Agent Skill (`SKILL.md`)](https://github.com/sammyteng/shulex-mkt/blob/main/projects/01-atomic-knowledge-base/skill/SKILL.md)**
 * 💬 **[复制 ChatGPT/Claude 即用 Prompt](https://github.com/sammyteng/shulex-mkt/blob/main/projects/01-atomic-knowledge-base/skill/prompt-templates/system_prompt_for_llm.md)**
+
+---
+
+## 💬 官方专属顾问微信
+
+搭建知识库过程中遇到任何疑难、或希望接入能直接跑通此模板的 **Shulex AI 客服数字员工**：
+
+<div align="center">
+  <img src="assets/shulex-contact-qr.png" width="200" alt="Shulex 客服二维码" />
+  <p><b>▲ 微信扫码添加专属顾问（备注：知识库模板）</b></p>
+</div>

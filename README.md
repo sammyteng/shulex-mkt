@@ -40,6 +40,17 @@ projects/
 
 ---
 
+## 💬 官方交流与专属顾问支持
+
+如需深入交流智能客服落地、定制复杂业务的知识库清洗流水线、或申请 **Shulex AI 客服数字员工** 免费试用，欢迎微信扫码添加官方专属顾问：
+
+<div align="center">
+  <img src="assets/shulex-contact-qr.png" width="220" alt="Shulex 官方客服二维码" />
+  <p><b>▲ 微信扫码添加 Shulex 官方专属顾问（备注：GitHub 知识库）</b></p>
+</div>
+
+---
+
 ## 🏢 关于 Shulex & Solvea
 
 * **Shulex (数里行间)**：专注于跨境电商与国内品牌的下一代全体验 AI 客服与 VOC 洞察平台。

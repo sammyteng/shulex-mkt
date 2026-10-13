@@ -35,3 +35,14 @@ cp -r ai-skill-edition ~/.claude/skills/shulex-atomic-kb
 
 ### 方式 3：集成到 Dify / FastGPT 知识库清洗流水线
 在知识库入库前的 Pre-processing 节点中，使用上述 System Prompt 将用户上传的文件做结构化提取后再切分 Embedding，**RAG 检索准确率提升 40% 以上**。
+
+---
+
+## 💬 官方技术顾问支持
+
+如需定制复杂业务系统的知识库清洗流水线、或对接 Shulex API：
+
+<div align="center">
+  <img src="../assets/shulex-contact-qr.png" width="180" alt="Shulex 客服二维码" />
+  <p><b>▲ 微信扫码添加技术顾问</b></p>
+</div>
